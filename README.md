@@ -11,11 +11,10 @@ Estoy interesada en **prácticas** para seguir aprendiendo y aplicar lo que voy 
 ### 🧰 Tecnologías y herramientas
 
 **Lenguajes:**  
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
-
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
-
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlserver&logoColor=white) 
+  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
+  ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlserver&logoColor=white) 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
 
