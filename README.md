@@ -48,5 +48,4 @@ Estoy interesada en **prácticas** para seguir aprendiendo y aplicar lo que voy 
 
 ### 📫 Cómo contactarme
 - Correo: fatimachasi@gmail.com
-- LinkedIn: linkedin.com/in/fatima-chasi-developer
-
+- LinkedIn: https://www.linkedin.com/in/fatima-chasi-developer
